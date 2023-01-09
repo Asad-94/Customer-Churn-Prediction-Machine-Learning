@@ -1,5 +1,5 @@
 # Customer-Churn-Prediction
-This is the final project for Machine Learning (Supervised Learning) which is based on "Customer Churn Prediction".
+This is the final project for Machine Learning (Supervised Learning) course, and is solving a classification problem based on "Customer Churn Prediction".
 
 Churn is defined as a phenomenon in which a customer cancels a subscription or leave a particular brand or business i.e., they stop buying their products or services. This project will predict which customers are most likely to discontinue the association with an entity, and which are not. The information obtained from this data will be helpful for the companies as they will look to retain their customers by analyzing which customers are at a high risk of leaving.
 
